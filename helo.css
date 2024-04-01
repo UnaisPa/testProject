@@ -1,9 +1,3 @@
 body{
     background-color: aliceblue;
 }
-p{
-    color: aliceblue;
-    display: flex;
-    border: 1px;
-    font-size: large
-}
